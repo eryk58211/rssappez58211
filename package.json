@@ -1,0 +1,27 @@
+{
+  "name": "ez58211rss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.0",
+    "mongoose": "^5.9.5",
+    "rss-parser": "^3.7.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eryk58211/Eryk58211rss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eryk58211/Eryk58211rss/issues"
+  },
+  "homepage": "https://github.com/eryk58211/Eryk58211rss#readme"
+}
