@@ -1,0 +1,819 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1586200447823,981,HTTP Request GET,200,OK,Grupa wątków 1-1,text,true,,1266,133,2,2,http://ez58211rss.azurewebsites.net/,981,0,383
+1586200448743,892,HTTP Request GET,200,OK,Grupa wątków 1-2,text,true,,1266,133,2,2,http://ez58211rss.azurewebsites.net/,892,0,282
+1586200449743,1924,HTTP Request GET,200,OK,Grupa wątków 1-3,text,true,,5910,133,4,4,http://ez58211rss.azurewebsites.net/,1924,0,284
+1586200448807,3318,HTTP Request SAVE,200,OK,Grupa wątków 1-1,text,true,,6296,409,5,5,https://ez58211rss.azurewebsites.net/,1684,0,1214
+1586200448807,1684,HTTP Request SAVE-0,302,Found,Grupa wątków 1-1,text,true,,386,276,5,5,https://ez58211rss.azurewebsites.net/save,1684,0,1214
+1586200450492,1633,HTTP Request SAVE-1,200,OK,Grupa wątków 1-1,text,true,,5910,133,5,5,https://ez58211rss.azurewebsites.net/,1633,0,0
+1586200450746,2186,HTTP Request GET,200,OK,Grupa wątków 1-4,text,true,,10553,133,6,6,http://ez58211rss.azurewebsites.net/,2186,0,296
+1586200449636,3362,HTTP Request SAVE,200,OK,Grupa wątków 1-2,text,true,,10939,409,6,6,https://ez58211rss.azurewebsites.net/,1452,0,872
+1586200449636,1452,HTTP Request SAVE-0,302,Found,Grupa wątków 1-2,text,true,,386,276,6,6,https://ez58211rss.azurewebsites.net/save,1452,0,872
+1586200451088,1910,HTTP Request SAVE-1,200,OK,Grupa wątków 1-2,text,true,,10553,133,6,6,https://ez58211rss.azurewebsites.net/,1906,0,0
+1586200451743,2192,HTTP Request GET,200,OK,Grupa wątków 1-5,text,true,,10553,133,7,7,http://ez58211rss.azurewebsites.net/,2192,0,283
+1586200451669,3886,HTTP Request SAVE,200,OK,Grupa wątków 1-3,text,true,,15581,409,8,8,https://ez58211rss.azurewebsites.net/,1312,0,870
+1586200451669,1312,HTTP Request SAVE-0,302,Found,Grupa wątków 1-3,text,true,,386,276,8,8,https://ez58211rss.azurewebsites.net/save,1312,0,870
+1586200452981,2574,HTTP Request SAVE-1,200,OK,Grupa wątków 1-3,text,true,,15195,133,8,8,https://ez58211rss.azurewebsites.net/,2570,0,0
+1586200452742,3143,HTTP Request GET,200,OK,Grupa wątków 1-6,text,true,,15195,133,9,9,http://ez58211rss.azurewebsites.net/,2858,0,282
+1586200453742,3789,HTTP Request GET,200,OK,Grupa wątków 1-7,text,true,,19837,133,10,10,http://ez58211rss.azurewebsites.net/,3509,0,287
+1586200452933,4801,HTTP Request SAVE,200,OK,Grupa wątków 1-4,text,true,,20223,409,10,10,https://ez58211rss.azurewebsites.net/,1315,0,874
+1586200452933,1315,HTTP Request SAVE-0,302,Found,Grupa wątków 1-4,text,true,,386,276,10,10,https://ez58211rss.azurewebsites.net/save,1315,0,874
+1586200454248,3486,HTTP Request SAVE-1,200,OK,Grupa wątków 1-4,text,true,,19837,133,10,10,https://ez58211rss.azurewebsites.net/,3203,0,0
+1586200454746,4435,HTTP Request GET,200,OK,Grupa wątków 1-8,text,true,,24479,133,12,12,http://ez58211rss.azurewebsites.net/,4150,0,280
+1586200453936,5528,HTTP Request SAVE,200,OK,Grupa wątków 1-5,text,true,,24865,409,12,12,https://ez58211rss.azurewebsites.net/,1327,0,874
+1586200453936,1327,HTTP Request SAVE-0,302,Found,Grupa wątków 1-5,text,true,,386,276,12,12,https://ez58211rss.azurewebsites.net/save,1327,0,874
+1586200455263,4201,HTTP Request SAVE-1,200,OK,Grupa wątków 1-5,text,true,,24479,133,12,12,https://ez58211rss.azurewebsites.net/,3860,0,0
+1586200455745,4396,HTTP Request GET,200,OK,Grupa wątków 1-9,text,true,,24479,133,13,13,http://ez58211rss.azurewebsites.net/,4114,0,286
+1586200456746,5079,HTTP Request GET,200,OK,Grupa wątków 1-10,text,true,,29121,133,15,15,http://ez58211rss.azurewebsites.net/,4794,0,288
+1586200452126,9705,HTTP Request SEND,200,OK,Grupa wątków 1-1,text,true,,29507,409,15,15,https://ez58211rss.azurewebsites.net/,4359,0,881
+1586200452126,4359,HTTP Request SEND-0,302,Found,Grupa wątków 1-1,text,true,,386,276,15,15,https://ez58211rss.azurewebsites.net/send,4359,0,881
+1586200456485,5346,HTTP Request SEND-1,200,OK,Grupa wątków 1-1,text,true,,29121,133,15,15,https://ez58211rss.azurewebsites.net/,5059,0,573
+1586200455886,6152,HTTP Request SAVE,200,OK,Grupa wątków 1-6,text,true,,29507,409,15,15,https://ez58211rss.azurewebsites.net/,1319,0,874
+1586200455886,1319,HTTP Request SAVE-0,302,Found,Grupa wątków 1-6,text,true,,386,276,15,15,https://ez58211rss.azurewebsites.net/save,1319,0,874
+1586200457204,4834,HTTP Request SAVE-1,200,OK,Grupa wątków 1-6,text,true,,29121,133,15,15,https://ez58211rss.azurewebsites.net/,4549,0,0
+1586200457748,5058,HTTP Request GET,200,OK,Grupa wątków 1-11,text,true,,29121,133,16,16,http://ez58211rss.azurewebsites.net/,4764,0,282
+1586200452999,10854,HTTP Request SEND,200,OK,Grupa wątków 1-2,text,true,,34149,409,17,17,https://ez58211rss.azurewebsites.net/,4556,0,868
+1586200452999,4556,HTTP Request SEND-0,302,Found,Grupa wątków 1-2,text,true,,386,276,17,17,https://ez58211rss.azurewebsites.net/send,4556,0,868
+1586200457554,6299,HTTP Request SEND-1,200,OK,Grupa wątków 1-2,text,true,,33763,133,17,17,https://ez58211rss.azurewebsites.net/,6011,0,868
+1586200457531,6711,HTTP Request SAVE,200,OK,Grupa wątków 1-7,text,true,,34149,409,17,17,https://ez58211rss.azurewebsites.net/,1307,0,868
+1586200457531,1307,HTTP Request SAVE-0,302,Found,Grupa wątków 1-7,text,true,,386,276,17,17,https://ez58211rss.azurewebsites.net/save,1307,0,868
+1586200458838,5404,HTTP Request SAVE-1,200,OK,Grupa wątków 1-7,text,true,,33763,133,17,17,https://ez58211rss.azurewebsites.net/,5119,0,0
+1586200458748,5740,HTTP Request GET,200,OK,Grupa wątków 1-12,text,true,,33763,133,17,17,http://ez58211rss.azurewebsites.net/,5454,0,287
+1586200459749,5711,HTTP Request GET,200,OK,Grupa wątków 1-13,text,true,,33763,133,18,18,http://ez58211rss.azurewebsites.net/,5429,0,292
+1586200459181,7400,HTTP Request SAVE,200,OK,Grupa wątków 1-8,text,true,,38791,409,19,19,https://ez58211rss.azurewebsites.net/,1313,0,871
+1586200459181,1313,HTTP Request SAVE-0,302,Found,Grupa wątków 1-8,text,true,,386,276,19,19,https://ez58211rss.azurewebsites.net/save,1313,0,871
+1586200460494,6087,HTTP Request SAVE-1,200,OK,Grupa wątków 1-8,text,true,,38405,133,19,19,https://ez58211rss.azurewebsites.net/,5800,0,0
+1586200460749,7314,HTTP Request GET,200,OK,Grupa wątków 1-14,text,true,,43047,133,21,21,http://ez58211rss.azurewebsites.net/,6747,0,283
+1586200460141,8054,HTTP Request SAVE,200,OK,Grupa wątków 1-9,text,true,,43433,409,21,21,https://ez58211rss.azurewebsites.net/,1304,0,866
+1586200460141,1304,HTTP Request SAVE-0,302,Found,Grupa wątków 1-9,text,true,,386,276,21,21,https://ez58211rss.azurewebsites.net/save,1304,0,866
+1586200461445,6750,HTTP Request SAVE-1,200,OK,Grupa wątków 1-9,text,true,,43047,133,21,21,https://ez58211rss.azurewebsites.net/,6457,0,0
+1586200455556,12973,HTTP Request SEND,200,OK,Grupa wątków 1-3,text,true,,43433,409,21,21,https://ez58211rss.azurewebsites.net/,5378,0,868
+1586200455556,5378,HTTP Request SEND-0,302,Found,Grupa wątków 1-3,text,true,,386,276,21,21,https://ez58211rss.azurewebsites.net/send,5378,0,868
+1586200460933,7596,HTTP Request SEND-1,200,OK,Grupa wątków 1-3,text,true,,43047,133,21,21,https://ez58211rss.azurewebsites.net/,7304,0,885
+1586200461741,7296,HTTP Request GET,200,OK,Grupa wątków 1-15,text,true,,43047,133,22,22,http://ez58211rss.azurewebsites.net/,6731,0,282
+1586200461826,8763,HTTP Request SAVE,200,OK,Grupa wątków 1-10,text,true,,48075,409,23,23,https://ez58211rss.azurewebsites.net/,1334,0,875
+1586200461826,1334,HTTP Request SAVE-0,302,Found,Grupa wątków 1-10,text,true,,386,276,23,23,https://ez58211rss.azurewebsites.net/save,1334,0,875
+1586200463160,7429,HTTP Request SAVE-1,200,OK,Grupa wątków 1-10,text,true,,47689,133,23,23,https://ez58211rss.azurewebsites.net/,7136,0,0
+1586200461831,8782,HTTP Request DELETE,200,OK,Grupa wątków 1-1,text,true,,48075,356,23,23,https://ez58211rss.azurewebsites.net/,1331,0,873
+1586200461831,1331,HTTP Request DELETE-0,302,Found,Grupa wątków 1-1,text,true,,386,223,23,23,https://ez58211rss.azurewebsites.net/delete,1331,0,873
+1586200463162,7451,HTTP Request DELETE-1,200,OK,Grupa wątków 1-1,text,true,,47689,133,23,23,https://ez58211rss.azurewebsites.net/,7163,0,0
+1586200462757,7990,HTTP Request GET,200,OK,Grupa wątków 1-16,text,true,,47689,133,22,22,http://ez58211rss.azurewebsites.net/,7417,0,284
+1586200463741,8624,HTTP Request GET,200,OK,Grupa wątków 1-17,text,true,,52331,133,24,24,http://ez58211rss.azurewebsites.net/,8056,0,283
+1586200462807,9688,HTTP Request SAVE,200,OK,Grupa wątków 1-11,text,true,,52717,409,24,24,https://ez58211rss.azurewebsites.net/,1308,0,864
+1586200462807,1308,HTTP Request SAVE-0,302,Found,Grupa wątków 1-11,text,true,,386,276,24,24,https://ez58211rss.azurewebsites.net/save,1308,0,864
+1586200464115,8380,HTTP Request SAVE-1,200,OK,Grupa wątków 1-11,text,true,,52331,133,24,24,https://ez58211rss.azurewebsites.net/,7810,0,0
+1586200463855,9310,HTTP Request DELETE,200,OK,Grupa wątków 1-2,text,true,,52717,356,25,25,https://ez58211rss.azurewebsites.net/,1301,0,864
+1586200463855,1301,HTTP Request DELETE-0,302,Found,Grupa wątków 1-2,text,true,,386,223,25,25,https://ez58211rss.azurewebsites.net/delete,1301,0,864
+1586200465156,8009,HTTP Request DELETE-1,200,OK,Grupa wątków 1-2,text,true,,52331,133,25,25,https://ez58211rss.azurewebsites.net/,7720,0,0
+1586200457733,15595,HTTP Request SEND,200,OK,Grupa wątków 1-4,text,true,,52717,409,24,24,https://ez58211rss.azurewebsites.net/,6689,0,874
+1586200457733,6689,HTTP Request SEND-0,302,Found,Grupa wątków 1-4,text,true,,386,276,24,24,https://ez58211rss.azurewebsites.net/send,6689,0,874
+1586200464423,8905,HTTP Request SEND-1,200,OK,Grupa wątków 1-4,text,true,,52331,133,24,24,https://ez58211rss.azurewebsites.net/,8618,0,863
+1586200464741,8650,HTTP Request GET,200,OK,Grupa wątków 1-18,text,true,,52331,133,24,24,http://ez58211rss.azurewebsites.net/,8079,0,284
+1586200464490,10309,HTTP Request SAVE,200,OK,Grupa wątków 1-12,text,true,,57359,409,26,26,https://ez58211rss.azurewebsites.net/,1303,0,866
+1586200464490,1303,HTTP Request SAVE-0,302,Found,Grupa wątków 1-12,text,true,,386,276,26,26,https://ez58211rss.azurewebsites.net/save,1303,0,866
+1586200465794,9005,HTTP Request SAVE-1,200,OK,Grupa wątków 1-12,text,true,,56973,133,26,26,https://ez58211rss.azurewebsites.net/,8437,0,0
+1586200465748,9280,HTTP Request GET,200,OK,Grupa wątków 1-19,text,true,,56973,133,26,26,http://ez58211rss.azurewebsites.net/,8707,0,291
+1586200465462,10923,HTTP Request SAVE,200,OK,Grupa wątków 1-13,text,true,,62001,409,27,27,https://ez58211rss.azurewebsites.net/,1308,0,872
+1586200465462,1308,HTTP Request SAVE-0,302,Found,Grupa wątków 1-13,text,true,,386,276,27,27,https://ez58211rss.azurewebsites.net/save,1308,0,872
+1586200466770,9615,HTTP Request SAVE-1,200,OK,Grupa wątków 1-13,text,true,,61615,133,27,27,https://ez58211rss.azurewebsites.net/,9042,0,0
+1586200466748,9925,HTTP Request GET,200,OK,Grupa wątków 1-20,text,true,,61615,133,27,27,http://ez58211rss.azurewebsites.net/,9346,0,284
+1586200459463,17513,HTTP Request SEND,200,OK,Grupa wątków 1-5,text,true,,62001,409,28,28,https://ez58211rss.azurewebsites.net/,6992,0,577
+1586200459463,6992,HTTP Request SEND-0,302,Found,Grupa wątków 1-5,text,true,,386,276,28,28,https://ez58211rss.azurewebsites.net/send,6992,0,577
+1586200466456,10520,HTTP Request SEND-1,200,OK,Grupa wątków 1-5,text,true,,61615,133,28,28,https://ez58211rss.azurewebsites.net/,9947,0,869
+1586200467740,9929,HTTP Request GET,200,OK,Grupa wątków 1-21,text,true,,61615,133,28,28,http://ez58211rss.azurewebsites.net/,9358,0,287
+1586200468748,10687,HTTP Request GET,200,OK,Grupa wątków 1-22,text,true,,66258,133,30,30,http://ez58211rss.azurewebsites.net/,10039,0,285
+1586200468064,11943,HTTP Request SAVE,200,OK,Grupa wątków 1-14,text,true,,66644,409,31,31,https://ez58211rss.azurewebsites.net/,1302,0,867
+1586200468064,1302,HTTP Request SAVE-0,302,Found,Grupa wątków 1-14,text,true,,386,276,31,31,https://ez58211rss.azurewebsites.net/save,1302,0,867
+1586200469366,10641,HTTP Request SAVE-1,200,OK,Grupa wątków 1-14,text,true,,66258,133,31,31,https://ez58211rss.azurewebsites.net/,10015,0,0
+1586200468531,12097,HTTP Request DELETE,200,OK,Grupa wątków 1-3,text,true,,66644,356,31,31,https://ez58211rss.azurewebsites.net/,1307,0,870
+1586200468531,1308,HTTP Request DELETE-0,302,Found,Grupa wątków 1-3,text,true,,386,223,31,31,https://ez58211rss.azurewebsites.net/delete,1307,0,870
+1586200469839,10789,HTTP Request DELETE-1,200,OK,Grupa wątków 1-3,text,true,,66258,133,31,31,https://ez58211rss.azurewebsites.net/,10218,0,0
+1586200469750,11613,HTTP Request GET,200,OK,Grupa wątków 1-23,text,true,,70900,133,31,31,http://ez58211rss.azurewebsites.net/,11047,0,282
+1586200469038,12351,HTTP Request SAVE,200,OK,Grupa wątków 1-15,text,true,,71286,409,31,31,https://ez58211rss.azurewebsites.net/,1299,0,865
+1586200469038,1299,HTTP Request SAVE-0,302,Found,Grupa wątków 1-15,text,true,,386,276,31,31,https://ez58211rss.azurewebsites.net/save,1299,0,865
+1586200470337,11052,HTTP Request SAVE-1,200,OK,Grupa wątków 1-15,text,true,,70900,133,31,31,https://ez58211rss.azurewebsites.net/,10487,0,0
+1586200470749,11299,HTTP Request GET,200,OK,Grupa wątków 1-24,text,true,,70900,133,32,32,http://ez58211rss.azurewebsites.net/,10720,0,283
+1586200462039,20652,HTTP Request SEND,200,OK,Grupa wątków 1-6,text,true,,71286,409,32,32,https://ez58211rss.azurewebsites.net/,8494,0,576
+1586200462039,8494,HTTP Request SEND-0,302,Found,Grupa wątków 1-6,text,true,,386,276,32,32,https://ez58211rss.azurewebsites.net/send,8494,0,576
+1586200470533,12158,HTTP Request SEND-1,200,OK,Grupa wątków 1-6,text,true,,70900,133,32,32,https://ez58211rss.azurewebsites.net/,11584,0,576
+1586200470589,121183,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-10,,false,,287,276,97,97,https://ez58211rss.azurewebsites.net/send,121183,0,883
+1586200471749,120584,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-25,,false,,287,133,97,97,http://ez58211rss.azurewebsites.net/,120584,0,285
+1586200470748,121603,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-16,,false,,673,409,97,97,https://ez58211rss.azurewebsites.net/,1305,0,871
+1586200470748,1305,HTTP Request SAVE-0,302,Found,Grupa wątków 1-16,text,true,,386,276,97,97,https://ez58211rss.azurewebsites.net/save,1305,0,871
+1586200472053,120298,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-16,,false,,287,133,97,97,https://ez58211rss.azurewebsites.net/,120298,0,0
+1586200472750,120585,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-26,,false,,287,133,97,97,http://ez58211rss.azurewebsites.net/,120585,0,282
+1586200472496,121169,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-11,,false,,287,276,97,97,https://ez58211rss.azurewebsites.net/send,121169,0,863
+1586200472366,121615,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-17,,false,,673,409,97,97,https://ez58211rss.azurewebsites.net/,1307,0,867
+1586200472366,1307,HTTP Request SAVE-0,302,Found,Grupa wątków 1-17,text,true,,386,276,97,97,https://ez58211rss.azurewebsites.net/save,1307,0,867
+1586200473673,120308,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-17,,false,,287,133,97,97,https://ez58211rss.azurewebsites.net/,120308,0,0
+1586200473740,120580,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-27,,false,,287,133,97,97,http://ez58211rss.azurewebsites.net/,120580,0,281
+1586200464243,130549,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-7,,false,,673,409,97,97,https://ez58211rss.azurewebsites.net/,9377,0,859
+1586200464243,9377,HTTP Request SEND-0,302,Found,Grupa wątków 1-7,text,true,,386,276,97,97,https://ez58211rss.azurewebsites.net/send,9377,0,859
+1586200473620,121172,HTTP Request SEND-1,500,Internal Server Error,Grupa wątków 1-7,,false,,287,133,97,97,https://ez58211rss.azurewebsites.net/,121172,0,872
+1586200473329,121602,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-4,,false,,673,356,97,97,https://ez58211rss.azurewebsites.net/,1308,0,869
+1586200473329,1308,HTTP Request DELETE-0,302,Found,Grupa wątków 1-4,text,true,,386,223,97,97,https://ez58211rss.azurewebsites.net/delete,1308,0,869
+1586200474638,120293,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-4,,false,,287,133,97,97,https://ez58211rss.azurewebsites.net/,120293,0,0
+1586200473392,121599,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-18,,false,,673,409,96,96,https://ez58211rss.azurewebsites.net/,1297,0,861
+1586200473392,1297,HTTP Request SAVE-0,302,Found,Grupa wątków 1-18,text,true,,386,276,96,96,https://ez58211rss.azurewebsites.net/save,1297,0,861
+1586200474689,120302,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-18,,false,,287,133,96,96,https://ez58211rss.azurewebsites.net/,120302,0,0
+1586200474740,120578,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-28,,false,,287,133,96,96,http://ez58211rss.azurewebsites.net/,120578,0,281
+1586200474799,121161,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-12,,false,,287,276,96,96,https://ez58211rss.azurewebsites.net/send,121161,0,868
+1586200475749,120621,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-29,,false,,287,133,96,96,http://ez58211rss.azurewebsites.net/,120621,0,283
+1586200475029,121637,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-19,,false,,673,409,96,96,https://ez58211rss.azurewebsites.net/,1324,0,877
+1586200475029,1324,HTTP Request SAVE-0,302,Found,Grupa wątków 1-19,text,true,,386,276,96,96,https://ez58211rss.azurewebsites.net/save,1324,0,877
+1586200476353,120313,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-19,,false,,287,133,96,96,https://ez58211rss.azurewebsites.net/,120313,0,0
+1586200476750,120585,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-30,,false,,287,133,96,96,http://ez58211rss.azurewebsites.net/,120585,0,289
+1586200476386,121199,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-13,,false,,287,276,96,96,https://ez58211rss.azurewebsites.net/send,121199,0,883
+1586200476673,121629,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-20,,false,,673,409,96,96,https://ez58211rss.azurewebsites.net/,1319,0,878
+1586200476673,1319,HTTP Request SAVE-0,302,Found,Grupa wątków 1-20,text,true,,386,276,96,96,https://ez58211rss.azurewebsites.net/save,1319,0,878
+1586200477993,120309,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-20,,false,,287,133,96,96,https://ez58211rss.azurewebsites.net/,120309,0,0
+1586200477753,120588,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-31,,false,,287,133,96,96,http://ez58211rss.azurewebsites.net/,120588,0,283
+1586200466583,131846,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-8,,false,,673,409,96,96,https://ez58211rss.azurewebsites.net/,10689,0,883
+1586200466583,10689,HTTP Request SEND-0,302,Found,Grupa wątków 1-8,text,true,,386,276,96,96,https://ez58211rss.azurewebsites.net/send,10689,0,883
+1586200477272,121157,HTTP Request SEND-1,500,Internal Server Error,Grupa wątków 1-8,,false,,287,133,96,96,https://ez58211rss.azurewebsites.net/,121157,0,867
+1586200476977,121651,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-5,,false,,673,356,96,96,https://ez58211rss.azurewebsites.net/,1362,0,881
+1586200476977,1362,HTTP Request DELETE-0,302,Found,Grupa wątków 1-5,text,true,,386,223,96,96,https://ez58211rss.azurewebsites.net/delete,1362,0,881
+1586200478340,120288,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-5,,false,,287,133,96,96,https://ez58211rss.azurewebsites.net/,120288,0,0
+1586200477670,121655,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-21,,false,,673,409,95,95,https://ez58211rss.azurewebsites.net/,1316,0,872
+1586200477670,1316,HTTP Request SAVE-0,302,Found,Grupa wątków 1-21,text,true,,386,276,95,95,https://ez58211rss.azurewebsites.net/save,1316,0,872
+1586200478986,120339,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-21,,false,,287,133,95,95,https://ez58211rss.azurewebsites.net/,120339,0,0
+1586200478741,120722,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-32,,false,,287,133,95,95,http://ez58211rss.azurewebsites.net/,120722,0,405
+1586200479748,120603,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-33,,false,,287,133,95,95,http://ez58211rss.azurewebsites.net/,120603,0,310
+1586200479436,121708,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-22,,false,,673,409,95,95,https://ez58211rss.azurewebsites.net/,1412,0,976
+1586200479436,1412,HTTP Request SAVE-0,302,Found,Grupa wątków 1-22,text,true,,386,276,95,95,https://ez58211rss.azurewebsites.net/save,1412,0,976
+1586200480848,120296,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-22,,false,,287,133,95,95,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200480007,121201,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-14,,false,,287,276,95,95,https://ez58211rss.azurewebsites.net/send,121201,0,895
+1586200480741,120590,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-34,,false,,287,133,95,95,http://ez58211rss.azurewebsites.net/,120590,0,292
+1586200468196,133164,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-9,,false,,673,409,95,95,https://ez58211rss.azurewebsites.net/,11998,0,871
+1586200468196,11998,HTTP Request SEND-0,302,Found,Grupa wątków 1-9,text,true,,386,276,95,95,https://ez58211rss.azurewebsites.net/send,11998,0,871
+1586200480194,121166,HTTP Request SEND-1,500,Internal Server Error,Grupa wątków 1-9,,false,,287,133,95,95,https://ez58211rss.azurewebsites.net/,121166,0,871
+1586200481746,120574,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-35,,false,,287,133,95,95,http://ez58211rss.azurewebsites.net/,120574,0,282
+1586200481389,121168,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-15,,false,,287,276,95,95,https://ez58211rss.azurewebsites.net/send,121168,0,866
+1586200481363,121601,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-23,,false,,673,409,95,95,https://ez58211rss.azurewebsites.net/,1313,0,870
+1586200481363,1313,HTTP Request SAVE-0,302,Found,Grupa wątków 1-23,text,true,,386,276,95,95,https://ez58211rss.azurewebsites.net/save,1313,0,870
+1586200482675,120289,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-23,,false,,287,133,95,95,https://ez58211rss.azurewebsites.net/,120289,0,0
+1586200482740,120584,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-36,,false,,287,133,95,95,http://ez58211rss.azurewebsites.net/,120584,0,282
+1586200482048,121605,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-24,,false,,673,409,95,95,https://ez58211rss.azurewebsites.net/,1313,0,871
+1586200482048,1313,HTTP Request SAVE-0,302,Found,Grupa wątków 1-24,text,true,,386,276,95,95,https://ez58211rss.azurewebsites.net/save,1313,0,871
+1586200483361,120292,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-24,,false,,287,133,95,95,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200482691,121585,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-6,,false,,673,356,95,95,https://ez58211rss.azurewebsites.net/,1300,0,862
+1586200482691,1300,HTTP Request DELETE-0,302,Found,Grupa wątków 1-6,text,true,,386,223,95,95,https://ez58211rss.azurewebsites.net/delete,1300,0,862
+1586200483991,120285,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-6,,false,,287,133,95,95,https://ez58211rss.azurewebsites.net/,120285,0,0
+1586200483747,120608,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-37,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120608,0,285
+1586200484739,120573,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-38,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120573,0,281
+1586200485747,120632,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-39,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120632,0,288
+1586200486740,120589,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-40,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120589,0,288
+1586200487746,120579,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-41,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120579,0,288
+1586200488746,120583,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-42,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120583,0,283
+1586200489746,120583,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-43,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120583,0,284
+1586200490739,120573,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-44,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120573,0,282
+1586200491741,120591,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-45,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120591,0,284
+1586200492741,120588,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-46,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120588,0,286
+1586200493740,120589,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-47,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120589,0,284
+1586200494745,120583,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-48,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120583,0,281
+1586200495741,120585,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-49,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120585,0,283
+1586200496740,120573,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-50,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120573,0,282
+1586200497740,120580,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-51,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120580,0,284
+1586200498740,120579,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-52,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120579,0,282
+1586200499740,120584,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-53,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120584,0,283
+1586200500740,120578,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-54,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120578,0,285
+1586200501741,120582,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-55,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120582,0,282
+1586200502743,120582,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-56,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120582,0,284
+1586200503741,120596,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-57,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120596,0,285
+1586200504744,120579,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-58,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120579,0,281
+1586200505740,120599,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-59,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120599,0,287
+1586200506741,120583,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-60,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120583,0,283
+1586200507740,120578,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-61,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120578,0,282
+1586200508739,120571,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-62,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120571,0,282
+1586200509741,120675,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-63,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120675,0,385
+1586200510741,120583,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-64,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120583,0,282
+1586200511739,120590,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-65,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120590,0,284
+1586200512740,120582,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-66,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120582,0,280
+1586200513740,120591,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-67,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120591,0,292
+1586200514739,120611,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-68,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120611,0,287
+1586200515741,120596,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-69,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120596,0,283
+1586200516741,120583,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-70,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120583,0,283
+1586200517740,120584,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-71,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120584,0,282
+1586200518740,120583,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-72,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120583,0,280
+1586200519741,120617,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-73,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120617,0,289
+1586200520740,120584,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-74,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120584,0,285
+1586200521740,120589,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-75,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120589,0,289
+1586200522740,120575,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-76,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120575,0,282
+1586200523740,120575,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-77,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120575,0,279
+1586200524739,120591,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-78,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120591,0,287
+1586200525741,120591,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-79,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120591,0,287
+1586200526739,120574,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-80,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120574,0,284
+1586200527739,120589,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-81,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120589,0,282
+1586200528740,120573,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-82,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120573,0,282
+1586200529738,120591,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-83,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120591,0,282
+1586200530739,120575,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-84,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120575,0,281
+1586200531740,120575,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-85,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120575,0,282
+1586200532740,120575,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-86,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120575,0,282
+1586200533740,120577,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-87,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120577,0,281
+1586200534740,120574,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-88,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120574,0,282
+1586200535740,120584,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-89,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120584,0,282
+1586200536740,120579,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-90,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120579,0,282
+1586200537740,120583,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-91,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120583,0,281
+1586200538741,120575,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-92,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120575,0,281
+1586200539739,120588,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-93,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120588,0,285
+1586200540740,120675,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-94,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120675,0,381
+1586200541741,120589,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-95,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120589,0,283
+1586200542740,120574,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-96,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120574,0,281
+1586200543739,120588,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-97,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120588,0,283
+1586200544740,120575,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-98,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120575,0,282
+1586200545741,120590,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-99,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120590,0,281
+1586200546739,120594,HTTP Request GET,500,Internal Server Error,Grupa wątków 1-100,,false,,287,133,94,94,http://ez58211rss.azurewebsites.net/,120594,0,283
+1586200592351,121200,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-16,,false,,287,276,94,94,https://ez58211rss.azurewebsites.net/send,121200,0,908
+1586200591774,121779,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-10,,false,,673,356,94,94,https://ez58211rss.azurewebsites.net/,1485,0,1018
+1586200591774,1485,HTTP Request DELETE-0,302,Found,Grupa wątków 1-10,text,true,,386,223,94,94,https://ez58211rss.azurewebsites.net/delete,1485,0,1018
+1586200593259,120294,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-10,,false,,287,133,94,94,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200592334,121680,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-25,,false,,673,409,93,93,https://ez58211rss.azurewebsites.net/,1375,0,925
+1586200592334,1375,HTTP Request SAVE-0,302,Found,Grupa wątków 1-25,text,true,,386,276,93,93,https://ez58211rss.azurewebsites.net/save,1375,0,925
+1586200593710,120304,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-25,,false,,287,133,93,93,https://ez58211rss.azurewebsites.net/,120304,0,0
+1586200593336,121637,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-26,,false,,673,409,93,93,https://ez58211rss.azurewebsites.net/,1339,0,896
+1586200593336,1340,HTTP Request SAVE-0,302,Found,Grupa wątków 1-26,text,true,,386,276,93,93,https://ez58211rss.azurewebsites.net/save,1339,0,896
+1586200594676,120297,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-26,,false,,287,133,93,93,https://ez58211rss.azurewebsites.net/,120297,0,0
+1586200593981,121229,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-17,,false,,287,276,93,93,https://ez58211rss.azurewebsites.net/send,121229,0,919
+1586200593665,121669,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-11,,false,,673,356,93,93,https://ez58211rss.azurewebsites.net/,1372,0,928
+1586200593665,1372,HTTP Request DELETE-0,302,Found,Grupa wątków 1-11,text,true,,386,223,93,93,https://ez58211rss.azurewebsites.net/delete,1372,0,928
+1586200595037,120297,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-11,,false,,287,133,93,93,https://ez58211rss.azurewebsites.net/,120297,0,0
+1586200594320,121607,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-27,,false,,673,409,92,92,https://ez58211rss.azurewebsites.net/,1323,0,879
+1586200594320,1323,HTTP Request SAVE-0,302,Found,Grupa wątków 1-27,text,true,,386,276,92,92,https://ez58211rss.azurewebsites.net/save,1323,0,879
+1586200595643,120284,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-27,,false,,287,133,92,92,https://ez58211rss.azurewebsites.net/,120284,0,0
+1586200594991,121172,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-18,,false,,287,276,92,92,https://ez58211rss.azurewebsites.net/send,121172,0,874
+1586200594793,121604,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-7,,false,,673,356,92,92,https://ez58211rss.azurewebsites.net/,1318,0,882
+1586200594793,1318,HTTP Request DELETE-0,302,Found,Grupa wątków 1-7,text,true,,386,223,92,92,https://ez58211rss.azurewebsites.net/delete,1318,0,882
+1586200596111,120286,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-7,,false,,287,133,92,92,https://ez58211rss.azurewebsites.net/,120286,0,0
+1586200595319,121628,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-28,,false,,673,409,91,91,https://ez58211rss.azurewebsites.net/,1331,0,868
+1586200595319,1331,HTTP Request SAVE-0,302,Found,Grupa wątków 1-28,text,true,,386,276,91,91,https://ez58211rss.azurewebsites.net/save,1331,0,868
+1586200596650,120297,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-28,,false,,287,133,91,91,https://ez58211rss.azurewebsites.net/,120297,0,0
+1586200595960,121356,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-12,,false,,673,356,91,91,https://ez58211rss.azurewebsites.net/,1056,0,594
+1586200595960,1056,HTTP Request DELETE-0,302,Found,Grupa wątków 1-12,text,true,,386,223,91,91,https://ez58211rss.azurewebsites.net/delete,1056,0,594
+1586200597016,120300,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-12,,false,,287,133,91,91,https://ez58211rss.azurewebsites.net/,120300,0,0
+1586200596666,121184,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-19,,false,,287,276,90,90,https://ez58211rss.azurewebsites.net/send,121184,0,880
+1586200596371,121664,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-29,,false,,673,409,90,90,https://ez58211rss.azurewebsites.net/,1370,0,915
+1586200596371,1370,HTTP Request SAVE-0,302,Found,Grupa wątków 1-29,text,true,,386,276,90,90,https://ez58211rss.azurewebsites.net/save,1370,0,915
+1586200597741,120294,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-29,,false,,287,133,90,90,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200597336,121624,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-30,,false,,673,409,90,90,https://ez58211rss.azurewebsites.net/,1329,0,879
+1586200597336,1329,HTTP Request SAVE-0,302,Found,Grupa wątków 1-30,text,true,,386,276,90,90,https://ez58211rss.azurewebsites.net/save,1329,0,879
+1586200598665,120295,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-30,,false,,287,133,90,90,https://ez58211rss.azurewebsites.net/,120295,0,0
+1586200597585,121644,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-13,,false,,673,356,90,90,https://ez58211rss.azurewebsites.net/,1344,0,910
+1586200597585,1344,HTTP Request DELETE-0,302,Found,Grupa wątków 1-13,text,true,,386,223,90,90,https://ez58211rss.azurewebsites.net/delete,1344,0,910
+1586200598929,120300,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-13,,false,,287,133,90,90,https://ez58211rss.azurewebsites.net/,120300,0,0
+1586200598303,121156,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-20,,false,,287,276,89,89,https://ez58211rss.azurewebsites.net/send,121156,0,871
+1586200598342,121590,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-31,,false,,673,409,89,89,https://ez58211rss.azurewebsites.net/,1301,0,866
+1586200598342,1301,HTTP Request SAVE-0,302,Found,Grupa wątków 1-31,text,true,,386,276,89,89,https://ez58211rss.azurewebsites.net/save,1301,0,866
+1586200599643,120289,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-31,,false,,287,133,89,89,https://ez58211rss.azurewebsites.net/,120289,0,0
+1586200598429,121594,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-8,,false,,673,356,89,89,https://ez58211rss.azurewebsites.net/,1307,0,871
+1586200598429,1307,HTTP Request DELETE-0,302,Found,Grupa wątków 1-8,text,true,,386,223,89,89,https://ez58211rss.azurewebsites.net/delete,1307,0,871
+1586200599736,120287,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-8,,false,,287,133,89,89,https://ez58211rss.azurewebsites.net/,120287,0,0
+1586200599325,121168,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-21,,false,,287,276,88,88,https://ez58211rss.azurewebsites.net/send,121168,0,873
+1586200599464,121667,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-32,,false,,673,409,88,88,https://ez58211rss.azurewebsites.net/,1383,0,871
+1586200599464,1383,HTTP Request SAVE-0,302,Found,Grupa wątków 1-32,text,true,,386,276,88,88,https://ez58211rss.azurewebsites.net/save,1383,0,871
+1586200600847,120284,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-32,,false,,287,133,88,88,https://ez58211rss.azurewebsites.net/,120284,0,0
+1586200600351,121594,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-33,,false,,673,409,88,88,https://ez58211rss.azurewebsites.net/,1298,0,861
+1586200600351,1298,HTTP Request SAVE-0,302,Found,Grupa wątków 1-33,text,true,,386,276,88,88,https://ez58211rss.azurewebsites.net/save,1298,0,861
+1586200601649,120296,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-33,,false,,287,133,88,88,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200601144,121159,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-22,,false,,287,276,88,88,https://ez58211rss.azurewebsites.net/send,121159,0,866
+1586200601208,121602,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-14,,false,,673,356,88,88,https://ez58211rss.azurewebsites.net/,1313,0,869
+1586200601208,1313,HTTP Request DELETE-0,302,Found,Grupa wątków 1-14,text,true,,386,223,88,88,https://ez58211rss.azurewebsites.net/delete,1313,0,869
+1586200602521,120289,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-14,,false,,287,133,88,88,https://ez58211rss.azurewebsites.net/,120289,0,0
+1586200601332,121603,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-34,,false,,673,409,87,87,https://ez58211rss.azurewebsites.net/,1306,0,867
+1586200601332,1306,HTTP Request SAVE-0,302,Found,Grupa wątków 1-34,text,true,,386,276,87,87,https://ez58211rss.azurewebsites.net/save,1306,0,867
+1586200602638,120297,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-34,,false,,287,133,87,87,https://ez58211rss.azurewebsites.net/,120297,0,0
+1586200601360,121605,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-9,,false,,673,356,87,87,https://ez58211rss.azurewebsites.net/,1306,0,868
+1586200601360,1307,HTTP Request DELETE-0,302,Found,Grupa wątków 1-9,text,true,,386,223,87,87,https://ez58211rss.azurewebsites.net/delete,1306,0,868
+1586200602667,120298,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-9,,false,,287,133,87,87,https://ez58211rss.azurewebsites.net/,120298,0,0
+1586200602322,121579,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-35,,false,,673,409,86,86,https://ez58211rss.azurewebsites.net/,1292,0,858
+1586200602322,1292,HTTP Request SAVE-0,302,Found,Grupa wątków 1-35,text,true,,386,276,86,86,https://ez58211rss.azurewebsites.net/save,1292,0,858
+1586200603615,120286,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-35,,false,,287,133,86,86,https://ez58211rss.azurewebsites.net/,120286,0,0
+1586200602966,121155,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-23,,false,,287,276,86,86,https://ez58211rss.azurewebsites.net/send,121155,0,868
+1586200602557,121587,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-15,,false,,673,356,86,86,https://ez58211rss.azurewebsites.net/,1302,0,870
+1586200602557,1302,HTTP Request DELETE-0,302,Found,Grupa wątków 1-15,text,true,,386,223,86,86,https://ez58211rss.azurewebsites.net/delete,1302,0,870
+1586200603859,120285,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-15,,false,,287,133,86,86,https://ez58211rss.azurewebsites.net/,120285,0,0
+1586200603654,121201,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-24,,false,,287,276,85,85,https://ez58211rss.azurewebsites.net/send,121201,0,908
+1586200603325,121673,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-36,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1378,0,892
+1586200603325,1379,HTTP Request SAVE-0,302,Found,Grupa wątków 1-36,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1378,0,892
+1586200604704,120294,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-36,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200604356,121678,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-37,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1385,0,937
+1586200604356,1385,HTTP Request SAVE-0,302,Found,Grupa wątków 1-37,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1385,0,937
+1586200605742,120292,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-37,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200605314,122278,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-38,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1986,0,894
+1586200605314,1986,HTTP Request SAVE-0,302,Found,Grupa wątków 1-38,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1986,0,894
+1586200607300,120292,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-38,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200606381,121661,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-39,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1359,0,919
+1586200606381,1359,HTTP Request SAVE-0,302,Found,Grupa wątków 1-39,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1359,0,919
+1586200607740,120302,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-39,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120302,0,0
+1586200607330,121605,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-40,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1311,0,873
+1586200607330,1311,HTTP Request SAVE-0,302,Found,Grupa wątków 1-40,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1311,0,873
+1586200608641,120294,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-40,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200608326,121602,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-41,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1315,0,870
+1586200608326,1315,HTTP Request SAVE-0,302,Found,Grupa wątków 1-41,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1315,0,870
+1586200609641,120287,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-41,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120287,0,0
+1586200609329,121589,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-42,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1303,0,863
+1586200609329,1303,HTTP Request SAVE-0,302,Found,Grupa wątków 1-42,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1303,0,863
+1586200610632,120286,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-42,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120286,0,0
+1586200610330,121640,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-43,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1338,0,876
+1586200610330,1338,HTTP Request SAVE-0,302,Found,Grupa wątków 1-43,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1338,0,876
+1586200611668,120302,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-43,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120302,0,0
+1586200611313,121615,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-44,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1323,0,878
+1586200611313,1323,HTTP Request SAVE-0,302,Found,Grupa wątków 1-44,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1323,0,878
+1586200612637,120291,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-44,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120291,0,0
+1586200612332,121665,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-45,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1372,0,936
+1586200612332,1372,HTTP Request SAVE-0,302,Found,Grupa wątków 1-45,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1372,0,936
+1586200613704,120293,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-45,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120293,0,0
+1586200613330,121599,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-46,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1306,0,867
+1586200613330,1306,HTTP Request SAVE-0,302,Found,Grupa wątków 1-46,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1306,0,867
+1586200614637,120292,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-46,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200614330,121602,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-47,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1306,0,867
+1586200614330,1307,HTTP Request SAVE-0,302,Found,Grupa wątków 1-47,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1306,0,867
+1586200615637,120295,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-47,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120295,0,0
+1586200615328,121585,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-48,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1298,0,862
+1586200615328,1298,HTTP Request SAVE-0,302,Found,Grupa wątków 1-48,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1298,0,862
+1586200616626,120287,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-48,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120287,0,0
+1586200616327,121598,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-49,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1311,0,868
+1586200616327,1311,HTTP Request SAVE-0,302,Found,Grupa wątków 1-49,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1311,0,868
+1586200617638,120287,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-49,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120287,0,0
+1586200617314,121643,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-50,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1347,0,880
+1586200617314,1347,HTTP Request SAVE-0,302,Found,Grupa wątków 1-50,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1347,0,880
+1586200618661,120296,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-50,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200618321,121598,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-51,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1301,0,866
+1586200618321,1301,HTTP Request SAVE-0,302,Found,Grupa wątków 1-51,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1301,0,866
+1586200619623,120296,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-51,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200619320,121608,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-52,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1306,0,867
+1586200619320,1306,HTTP Request SAVE-0,302,Found,Grupa wątków 1-52,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1306,0,867
+1586200620626,120302,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-52,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120302,0,0
+1586200620325,121595,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-53,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1299,0,865
+1586200620325,1299,HTTP Request SAVE-0,302,Found,Grupa wątków 1-53,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1299,0,865
+1586200621624,120296,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-53,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200621319,121619,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-54,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1314,0,877
+1586200621319,1314,HTTP Request SAVE-0,302,Found,Grupa wątków 1-54,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1314,0,877
+1586200622633,120305,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-54,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120305,0,0
+1586200622323,121709,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-55,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1409,0,971
+1586200622323,1409,HTTP Request SAVE-0,302,Found,Grupa wątków 1-55,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1409,0,971
+1586200623732,120300,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-55,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120300,0,0
+1586200623326,121612,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-56,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1313,0,871
+1586200623326,1313,HTTP Request SAVE-0,302,Found,Grupa wątków 1-56,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1313,0,871
+1586200624639,120299,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-56,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120299,0,0
+1586200624338,121630,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-57,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1332,0,892
+1586200624338,1332,HTTP Request SAVE-0,302,Found,Grupa wątków 1-57,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1332,0,892
+1586200625670,120298,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-57,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120298,0,0
+1586200625324,121600,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-58,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1311,0,869
+1586200625324,1311,HTTP Request SAVE-0,302,Found,Grupa wątków 1-58,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1311,0,869
+1586200626635,120289,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-58,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120289,0,0
+1586200626339,121615,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-59,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1327,0,875
+1586200626339,1327,HTTP Request SAVE-0,302,Found,Grupa wątków 1-59,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1327,0,875
+1586200627666,120288,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-59,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120288,0,0
+1586200627325,121593,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-60,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1297,0,862
+1586200627325,1297,HTTP Request SAVE-0,302,Found,Grupa wątków 1-60,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1297,0,862
+1586200628622,120296,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-60,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200628319,121604,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-61,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1313,0,869
+1586200628319,1313,HTTP Request SAVE-0,302,Found,Grupa wątków 1-61,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1313,0,869
+1586200629633,120290,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-61,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120290,0,0
+1586200629311,121596,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-62,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1311,0,873
+1586200629311,1311,HTTP Request SAVE-0,302,Found,Grupa wątków 1-62,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1311,0,873
+1586200630622,120285,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-62,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120285,0,0
+1586200630417,121614,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-63,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1328,0,887
+1586200630417,1328,HTTP Request SAVE-0,302,Found,Grupa wątków 1-63,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1328,0,887
+1586200631745,120286,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-63,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120286,0,0
+1586200631325,121613,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-64,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1316,0,868
+1586200631325,1316,HTTP Request SAVE-0,302,Found,Grupa wątków 1-64,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1316,0,868
+1586200632641,120297,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-64,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120297,0,0
+1586200632329,121610,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-65,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1307,0,872
+1586200632329,1307,HTTP Request SAVE-0,302,Found,Grupa wątków 1-65,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1307,0,872
+1586200633636,120303,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-65,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120303,0,0
+1586200633323,121615,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-66,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1304,0,866
+1586200633323,1304,HTTP Request SAVE-0,302,Found,Grupa wątków 1-66,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1304,0,866
+1586200634628,120310,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-66,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120310,0,0
+1586200634332,121606,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-67,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1312,0,869
+1586200634332,1312,HTTP Request SAVE-0,302,Found,Grupa wątków 1-67,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1312,0,869
+1586200635644,120294,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-67,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200635351,121589,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-68,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1300,0,864
+1586200635351,1300,HTTP Request SAVE-0,302,Found,Grupa wątków 1-68,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1300,0,864
+1586200636651,120289,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-68,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120289,0,0
+1586200636338,121623,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-69,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1294,0,859
+1586200636338,1294,HTTP Request SAVE-0,302,Found,Grupa wątków 1-69,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1294,0,859
+1586200637633,120328,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-69,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120328,0,0
+1586200637325,121622,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-70,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1312,0,865
+1586200637325,1312,HTTP Request SAVE-0,302,Found,Grupa wątków 1-70,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1312,0,865
+1586200638637,120310,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-70,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120310,0,0
+1586200638324,121605,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-71,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1301,0,863
+1586200638324,1301,HTTP Request SAVE-0,302,Found,Grupa wątków 1-71,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1301,0,863
+1586200639625,120304,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-71,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120304,0,0
+1586200639324,121600,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-72,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1306,0,863
+1586200639324,1306,HTTP Request SAVE-0,302,Found,Grupa wątków 1-72,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1306,0,863
+1586200640630,120294,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-72,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200640359,121660,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-73,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1362,0,923
+1586200640359,1362,HTTP Request SAVE-0,302,Found,Grupa wątków 1-73,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1362,0,923
+1586200641721,120298,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-73,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120298,0,0
+1586200641325,121602,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-74,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1312,0,869
+1586200641325,1312,HTTP Request SAVE-0,302,Found,Grupa wątków 1-74,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1312,0,869
+1586200642637,120290,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-74,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120290,0,0
+1586200642330,121613,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-75,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1321,0,880
+1586200642330,1321,HTTP Request SAVE-0,302,Found,Grupa wątków 1-75,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1321,0,880
+1586200643651,120292,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-75,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200643316,121613,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-76,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1317,0,874
+1586200643316,1317,HTTP Request SAVE-0,302,Found,Grupa wątków 1-76,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1317,0,874
+1586200644633,120296,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-76,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200644316,121631,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-77,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1325,0,887
+1586200644316,1325,HTTP Request SAVE-0,302,Found,Grupa wątków 1-77,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1325,0,887
+1586200645641,120306,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-77,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120306,0,0
+1586200645331,121602,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-78,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1313,0,877
+1586200645331,1313,HTTP Request SAVE-0,302,Found,Grupa wątków 1-78,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1313,0,877
+1586200646644,120289,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-78,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120289,0,0
+1586200646332,121599,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-79,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1303,0,866
+1586200646332,1303,HTTP Request SAVE-0,302,Found,Grupa wątków 1-79,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1303,0,866
+1586200647635,120296,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-79,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200647315,121607,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-80,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1314,0,879
+1586200647315,1314,HTTP Request SAVE-0,302,Found,Grupa wątków 1-80,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1314,0,879
+1586200648629,120293,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-80,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120293,0,0
+1586200648330,121610,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-81,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1320,0,882
+1586200648330,1320,HTTP Request SAVE-0,302,Found,Grupa wątków 1-81,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1320,0,882
+1586200649650,120290,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-81,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120290,0,0
+1586200649315,121610,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-82,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1307,0,869
+1586200649315,1307,HTTP Request SAVE-0,302,Found,Grupa wątków 1-82,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1307,0,869
+1586200650622,120303,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-82,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120303,0,0
+1586200650331,121592,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-83,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1303,0,864
+1586200650331,1303,HTTP Request SAVE-0,302,Found,Grupa wątków 1-83,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1303,0,864
+1586200651634,120289,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-83,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120289,0,0
+1586200651316,121596,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-84,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1305,0,863
+1586200651316,1305,HTTP Request SAVE-0,302,Found,Grupa wątków 1-84,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1305,0,863
+1586200652621,120291,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-84,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120291,0,0
+1586200652316,121590,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-85,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1304,0,865
+1586200652316,1304,HTTP Request SAVE-0,302,Found,Grupa wątków 1-85,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1304,0,865
+1586200653620,120286,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-85,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120286,0,0
+1586200653315,121710,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-86,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1414,0,972
+1586200653315,1414,HTTP Request SAVE-0,302,Found,Grupa wątków 1-86,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1414,0,972
+1586200654729,120296,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-86,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200654318,121686,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-87,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1300,0,863
+1586200654318,1300,HTTP Request SAVE-0,302,Found,Grupa wątków 1-87,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1300,0,863
+1586200655703,120301,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-87,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120301,0,0
+1586200655314,121599,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-88,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1307,0,871
+1586200655314,1307,HTTP Request SAVE-0,302,Found,Grupa wątków 1-88,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1307,0,871
+1586200656621,120292,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-88,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200656325,121605,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-89,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1310,0,874
+1586200656325,1310,HTTP Request SAVE-0,302,Found,Grupa wątków 1-89,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1310,0,874
+1586200657636,120294,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-89,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200657320,121609,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-90,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1311,0,871
+1586200657320,1311,HTTP Request SAVE-0,302,Found,Grupa wątków 1-90,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1311,0,871
+1586200658631,120298,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-90,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120298,0,0
+1586200658324,121604,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-91,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1311,0,866
+1586200658324,1311,HTTP Request SAVE-0,302,Found,Grupa wątków 1-91,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1311,0,866
+1586200659636,120292,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-91,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200659316,121645,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-92,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1356,0,880
+1586200659316,1357,HTTP Request SAVE-0,302,Found,Grupa wątków 1-92,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1356,0,880
+1586200660673,120288,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-92,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120288,0,0
+1586200660327,121621,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-93,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1326,0,887
+1586200660327,1326,HTTP Request SAVE-0,302,Found,Grupa wątków 1-93,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1326,0,887
+1586200661653,120295,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-93,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120295,0,0
+1586200661416,121611,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-94,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1307,0,871
+1586200661416,1307,HTTP Request SAVE-0,302,Found,Grupa wątków 1-94,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1307,0,871
+1586200662723,120304,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-94,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120304,0,0
+1586200662331,121598,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-95,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1307,0,865
+1586200662331,1307,HTTP Request SAVE-0,302,Found,Grupa wątków 1-95,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1307,0,865
+1586200663638,120291,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-95,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120291,0,0
+1586200663315,121613,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-96,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1316,0,881
+1586200663315,1317,HTTP Request SAVE-0,302,Found,Grupa wątków 1-96,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1316,0,881
+1586200664632,120296,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-96,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200664328,121608,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-97,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1317,0,878
+1586200664328,1318,HTTP Request SAVE-0,302,Found,Grupa wątków 1-97,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1317,0,878
+1586200665646,120290,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-97,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120290,0,0
+1586200665316,121603,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-98,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1304,0,866
+1586200665316,1304,HTTP Request SAVE-0,302,Found,Grupa wątków 1-98,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1304,0,866
+1586200666620,120299,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-98,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120299,0,0
+1586200666331,121592,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-99,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1304,0,866
+1586200666331,1304,HTTP Request SAVE-0,302,Found,Grupa wątków 1-99,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1304,0,866
+1586200667635,120288,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-99,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120288,0,0
+1586200667334,121604,HTTP Request SAVE,500,Internal Server Error,Grupa wątków 1-100,,false,,673,409,85,85,https://ez58211rss.azurewebsites.net/,1314,0,866
+1586200667334,1314,HTTP Request SAVE-0,302,Found,Grupa wątków 1-100,text,true,,386,276,85,85,https://ez58211rss.azurewebsites.net/save,1314,0,866
+1586200668648,120290,HTTP Request SAVE-1,500,Internal Server Error,Grupa wątków 1-100,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120290,0,0
+1586200714014,121210,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-25,,false,,287,276,85,85,https://ez58211rss.azurewebsites.net/send,121210,0,867
+1586200713551,121750,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-16,,false,,673,356,85,85,https://ez58211rss.azurewebsites.net/,1445,0,1006
+1586200713551,1446,HTTP Request DELETE-0,302,Found,Grupa wątków 1-16,text,true,,386,223,85,85,https://ez58211rss.azurewebsites.net/delete,1445,0,1006
+1586200714997,120304,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-16,,false,,287,133,85,85,https://ez58211rss.azurewebsites.net/,120304,0,0
+1586200714974,121172,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-26,,false,,287,276,84,84,https://ez58211rss.azurewebsites.net/send,121172,0,877
+1586200715210,121593,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-17,,false,,673,356,84,84,https://ez58211rss.azurewebsites.net/,1308,0,871
+1586200715210,1308,HTTP Request DELETE-0,302,Found,Grupa wątków 1-17,text,true,,386,223,84,84,https://ez58211rss.azurewebsites.net/delete,1308,0,871
+1586200716518,120285,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-17,,false,,287,133,84,84,https://ez58211rss.azurewebsites.net/,120285,0,0
+1586200715928,121172,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-27,,false,,287,276,83,83,https://ez58211rss.azurewebsites.net/send,121172,0,865
+1586200716163,121593,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-18,,false,,673,356,83,83,https://ez58211rss.azurewebsites.net/,1306,0,867
+1586200716163,1306,HTTP Request DELETE-0,302,Found,Grupa wątków 1-18,text,true,,386,223,83,83,https://ez58211rss.azurewebsites.net/delete,1306,0,867
+1586200717470,120286,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-18,,false,,287,133,83,83,https://ez58211rss.azurewebsites.net/,120286,0,0
+1586200716948,121171,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-28,,false,,287,276,82,82,https://ez58211rss.azurewebsites.net/send,121171,0,871
+1586200718036,121219,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-29,,false,,287,276,82,82,https://ez58211rss.azurewebsites.net/send,121219,0,870
+1586200717850,121614,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-19,,false,,673,356,82,82,https://ez58211rss.azurewebsites.net/,1319,0,870
+1586200717850,1319,HTTP Request DELETE-0,302,Found,Grupa wątków 1-19,text,true,,386,223,82,82,https://ez58211rss.azurewebsites.net/delete,1319,0,870
+1586200719169,120295,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-19,,false,,287,133,82,82,https://ez58211rss.azurewebsites.net/,120295,0,0
+1586200718960,121190,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-30,,false,,287,276,81,81,https://ez58211rss.azurewebsites.net/send,121190,0,879
+1586200719460,121297,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-20,,false,,673,356,81,81,https://ez58211rss.azurewebsites.net/,1014,0,575
+1586200719460,1014,HTTP Request DELETE-0,302,Found,Grupa wątków 1-20,text,true,,386,223,81,81,https://ez58211rss.azurewebsites.net/delete,1014,0,575
+1586200720475,120282,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-20,,false,,287,133,81,81,https://ez58211rss.azurewebsites.net/,120282,0,0
+1586200719933,121168,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-31,,false,,287,276,80,80,https://ez58211rss.azurewebsites.net/send,121168,0,869
+1586200720493,121611,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-21,,false,,673,356,80,80,https://ez58211rss.azurewebsites.net/,1310,0,871
+1586200720493,1310,HTTP Request DELETE-0,302,Found,Grupa wątków 1-21,text,true,,386,223,80,80,https://ez58211rss.azurewebsites.net/delete,1310,0,871
+1586200721803,120301,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-21,,false,,287,133,80,80,https://ez58211rss.azurewebsites.net/,120301,0,0
+1586200721132,121172,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-32,,false,,287,276,79,79,https://ez58211rss.azurewebsites.net/send,121172,0,872
+1586200721946,121172,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-33,,false,,287,276,79,79,https://ez58211rss.azurewebsites.net/send,121172,0,875
+1586200722303,121613,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-22,,false,,673,356,79,79,https://ez58211rss.azurewebsites.net/,1315,0,875
+1586200722303,1315,HTTP Request DELETE-0,302,Found,Grupa wątków 1-22,text,true,,386,223,79,79,https://ez58211rss.azurewebsites.net/delete,1315,0,875
+1586200723618,120298,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-22,,false,,287,133,79,79,https://ez58211rss.azurewebsites.net/,120298,0,0
+1586200722935,121166,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-34,,false,,287,276,78,78,https://ez58211rss.azurewebsites.net/send,121166,0,875
+1586200723901,121159,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-35,,false,,287,276,78,78,https://ez58211rss.azurewebsites.net/send,121159,0,868
+1586200724121,121599,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-23,,false,,673,356,78,78,https://ez58211rss.azurewebsites.net/,1305,0,869
+1586200724121,1305,HTTP Request DELETE-0,302,Found,Grupa wątków 1-23,text,true,,386,223,78,78,https://ez58211rss.azurewebsites.net/delete,1305,0,869
+1586200725427,120293,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-23,,false,,287,133,78,78,https://ez58211rss.azurewebsites.net/,120293,0,0
+1586200724999,121183,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-36,,false,,287,276,77,77,https://ez58211rss.azurewebsites.net/send,121183,0,892
+1586200724855,121624,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-24,,false,,673,356,77,77,https://ez58211rss.azurewebsites.net/,1322,0,871
+1586200724855,1322,HTTP Request DELETE-0,302,Found,Grupa wątków 1-24,text,true,,386,223,77,77,https://ez58211rss.azurewebsites.net/delete,1322,0,871
+1586200726177,120302,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-24,,false,,287,133,77,77,https://ez58211rss.azurewebsites.net/,120302,0,0
+1586200726034,121151,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-37,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121151,0,864
+1586200727592,121167,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-38,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121167,0,877
+1586200728042,121158,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-39,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121158,0,866
+1586200728936,121167,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-40,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121167,0,878
+1586200729929,120879,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-41,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,120879,0,573
+1586200730918,121209,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-42,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121209,0,869
+1586200731970,121181,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-43,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121181,0,880
+1586200732929,121175,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-44,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121175,0,883
+1586200733997,121176,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-45,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121176,0,879
+1586200734930,121162,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-46,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121162,0,868
+1586200735933,121205,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-47,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121205,0,900
+1586200736913,121228,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-48,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121228,0,895
+1586200737925,121193,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-49,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121193,0,873
+1586200738957,121183,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-50,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121183,0,877
+1586200739919,121211,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-51,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121211,0,865
+1586200740928,121166,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-52,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121166,0,870
+1586200741921,121181,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-53,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121181,0,874
+1586200742938,121169,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-54,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121169,0,874
+1586200744033,121276,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-55,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121276,0,978
+1586200744939,120868,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-56,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,120868,0,574
+1586200745969,121195,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-57,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121195,0,865
+1586200746924,121161,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-58,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121161,0,869
+1586200747954,121186,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-59,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121186,0,876
+1586200748918,121158,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-60,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121158,0,872
+1586200749923,121159,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-61,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121159,0,866
+1586200750908,121163,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-62,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121163,0,876
+1586200752032,121154,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-63,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121154,0,868
+1586200752938,121172,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-64,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121172,0,872
+1586200753939,120890,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-65,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,120890,0,578
+1586200754939,121185,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-66,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121185,0,882
+1586200755939,121169,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-67,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121169,0,868
+1586200756941,121153,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-68,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121153,0,864
+1586200757961,121210,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-69,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121210,0,883
+1586200758947,121169,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-70,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121169,0,875
+1586200759929,121186,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-71,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121186,0,886
+1586200760925,121158,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-72,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121158,0,869
+1586200762019,121160,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-73,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121160,0,865
+1586200762928,121194,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-74,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121194,0,888
+1586200763943,121185,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-75,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121185,0,871
+1586200764929,121192,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-76,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121192,0,884
+1586200765947,121175,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-77,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121175,0,871
+1586200766933,121176,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-78,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121176,0,877
+1586200767931,121174,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-79,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121174,0,873
+1586200768923,121166,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-80,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121166,0,871
+1586200769940,121167,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-81,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121167,0,868
+1586200770925,121163,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-82,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121163,0,866
+1586200771923,121166,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-83,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121166,0,869
+1586200772912,121160,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-84,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121160,0,868
+1586200773906,121168,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-85,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121168,0,877
+1586200775025,121272,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-86,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121272,0,976
+1586200776012,121154,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-87,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121154,0,863
+1586200776913,121160,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-88,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121160,0,866
+1586200777929,121164,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-89,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121164,0,878
+1586200778929,121176,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-90,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121176,0,868
+1586200779927,121162,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-91,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121162,0,873
+1586200780960,121165,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-92,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121165,0,867
+1586200781948,121158,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-93,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121158,0,867
+1586200783027,121154,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-94,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121154,0,867
+1586200783929,121190,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-95,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121190,0,866
+1586200784928,121162,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-96,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121162,0,874
+1586200785936,121167,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-97,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121167,0,868
+1586200786919,121248,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-98,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121248,0,869
+1586200787924,121165,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-99,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121165,0,865
+1586200788938,121173,HTTP Request SEND,500,Internal Server Error,Grupa wątków 1-100,,false,,287,276,76,76,https://ez58211rss.azurewebsites.net/send,121173,0,864
+1586200835224,121746,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-25,,false,,673,356,76,76,https://ez58211rss.azurewebsites.net/,1442,0,991
+1586200835224,1442,HTTP Request DELETE-0,302,Found,Grupa wątków 1-25,text,true,,386,223,76,76,https://ez58211rss.azurewebsites.net/delete,1442,0,991
+1586200836667,120303,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-25,,false,,287,133,76,76,https://ez58211rss.azurewebsites.net/,120303,0,0
+1586200836146,121622,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-26,,false,,673,356,75,75,https://ez58211rss.azurewebsites.net/,1329,0,880
+1586200836146,1329,HTTP Request DELETE-0,302,Found,Grupa wątków 1-26,text,true,,386,223,75,75,https://ez58211rss.azurewebsites.net/delete,1329,0,880
+1586200837475,120293,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-26,,false,,287,133,75,75,https://ez58211rss.azurewebsites.net/,120293,0,0
+1586200837100,121605,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-27,,false,,673,356,74,74,https://ez58211rss.azurewebsites.net/,1306,0,870
+1586200837100,1306,HTTP Request DELETE-0,302,Found,Grupa wątków 1-27,text,true,,386,223,74,74,https://ez58211rss.azurewebsites.net/delete,1306,0,870
+1586200838406,120299,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-27,,false,,287,133,74,74,https://ez58211rss.azurewebsites.net/,120299,0,0
+1586200838120,121640,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-28,,false,,673,356,73,73,https://ez58211rss.azurewebsites.net/,1336,0,881
+1586200838120,1336,HTTP Request DELETE-0,302,Found,Grupa wątków 1-28,text,true,,386,223,73,73,https://ez58211rss.azurewebsites.net/delete,1336,0,881
+1586200839456,120304,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-28,,false,,287,133,73,73,https://ez58211rss.azurewebsites.net/,120304,0,0
+1586200839255,121368,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-29,,false,,673,356,72,72,https://ez58211rss.azurewebsites.net/,1056,0,610
+1586200839255,1056,HTTP Request DELETE-0,302,Found,Grupa wątków 1-29,text,true,,386,223,72,72,https://ez58211rss.azurewebsites.net/delete,1056,0,610
+1586200840311,120312,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-29,,false,,287,133,72,72,https://ez58211rss.azurewebsites.net/,120312,0,0
+1586200840150,121709,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-30,,false,,673,356,71,71,https://ez58211rss.azurewebsites.net/,1407,0,962
+1586200840150,1407,HTTP Request DELETE-0,302,Found,Grupa wątków 1-30,text,true,,386,223,71,71,https://ez58211rss.azurewebsites.net/delete,1407,0,962
+1586200841557,120302,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-30,,false,,287,133,71,71,https://ez58211rss.azurewebsites.net/,120302,0,0
+1586200841102,121617,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-31,,false,,673,356,70,70,https://ez58211rss.azurewebsites.net/,1312,0,871
+1586200841102,1312,HTTP Request DELETE-0,302,Found,Grupa wątków 1-31,text,true,,386,223,70,70,https://ez58211rss.azurewebsites.net/delete,1312,0,871
+1586200842414,120305,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-31,,false,,287,133,70,70,https://ez58211rss.azurewebsites.net/,120305,0,0
+1586200842305,121614,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-32,,false,,673,356,69,69,https://ez58211rss.azurewebsites.net/,1303,0,871
+1586200842305,1303,HTTP Request DELETE-0,302,Found,Grupa wątków 1-32,text,true,,386,223,69,69,https://ez58211rss.azurewebsites.net/delete,1303,0,871
+1586200843608,120311,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-32,,false,,287,133,69,69,https://ez58211rss.azurewebsites.net/,120311,0,0
+1586200843118,121608,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-33,,false,,673,356,68,68,https://ez58211rss.azurewebsites.net/,1304,0,869
+1586200843118,1304,HTTP Request DELETE-0,302,Found,Grupa wątków 1-33,text,true,,386,223,68,68,https://ez58211rss.azurewebsites.net/delete,1304,0,869
+1586200844422,120304,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-33,,false,,287,133,68,68,https://ez58211rss.azurewebsites.net/,120304,0,0
+1586200844101,121622,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-34,,false,,673,356,67,67,https://ez58211rss.azurewebsites.net/,1318,0,870
+1586200844101,1318,HTTP Request DELETE-0,302,Found,Grupa wątków 1-34,text,true,,386,223,67,67,https://ez58211rss.azurewebsites.net/delete,1318,0,870
+1586200845419,120304,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-34,,false,,287,133,67,67,https://ez58211rss.azurewebsites.net/,120304,0,0
+1586200845060,121647,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-35,,false,,673,356,66,66,https://ez58211rss.azurewebsites.net/,1358,0,911
+1586200845060,1358,HTTP Request DELETE-0,302,Found,Grupa wątków 1-35,text,true,,386,223,66,66,https://ez58211rss.azurewebsites.net/delete,1358,0,911
+1586200846418,120289,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-35,,false,,287,133,66,66,https://ez58211rss.azurewebsites.net/,120289,0,0
+1586200846182,121637,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-36,,false,,673,356,65,65,https://ez58211rss.azurewebsites.net/,1346,0,899
+1586200846182,1346,HTTP Request DELETE-0,302,Found,Grupa wątków 1-36,text,true,,386,223,65,65,https://ez58211rss.azurewebsites.net/delete,1346,0,899
+1586200847528,120291,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-36,,false,,287,133,65,65,https://ez58211rss.azurewebsites.net/,120291,0,0
+1586200847185,121620,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-37,,false,,673,356,64,64,https://ez58211rss.azurewebsites.net/,1317,0,871
+1586200847185,1317,HTTP Request DELETE-0,302,Found,Grupa wątków 1-37,text,true,,386,223,64,64,https://ez58211rss.azurewebsites.net/delete,1317,0,871
+1586200848502,120303,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-37,,false,,287,133,64,64,https://ez58211rss.azurewebsites.net/,120303,0,0
+1586200848759,121653,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-38,,false,,673,356,63,63,https://ez58211rss.azurewebsites.net/,1358,0,923
+1586200848759,1358,HTTP Request DELETE-0,302,Found,Grupa wątków 1-38,text,true,,386,223,63,63,https://ez58211rss.azurewebsites.net/delete,1358,0,923
+1586200850117,120295,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-38,,false,,287,133,63,63,https://ez58211rss.azurewebsites.net/,120295,0,0
+1586200849200,121935,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-39,,false,,673,356,62,62,https://ez58211rss.azurewebsites.net/,1637,0,1192
+1586200849200,1637,HTTP Request DELETE-0,302,Found,Grupa wątków 1-39,text,true,,386,223,62,62,https://ez58211rss.azurewebsites.net/delete,1637,0,1192
+1586200850838,120297,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-39,,false,,287,133,62,62,https://ez58211rss.azurewebsites.net/,120297,0,0
+1586200850104,121607,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-40,,false,,673,356,61,61,https://ez58211rss.azurewebsites.net/,1307,0,872
+1586200850104,1307,HTTP Request DELETE-0,302,Found,Grupa wątków 1-40,text,true,,386,223,61,61,https://ez58211rss.azurewebsites.net/delete,1307,0,872
+1586200851411,120300,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-40,,false,,287,133,61,61,https://ez58211rss.azurewebsites.net/,120300,0,0
+1586200850808,121672,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-41,,false,,673,356,60,60,https://ez58211rss.azurewebsites.net/,1372,0,878
+1586200850808,1372,HTTP Request DELETE-0,302,Found,Grupa wątków 1-41,text,true,,386,223,60,60,https://ez58211rss.azurewebsites.net/delete,1372,0,878
+1586200852179,120301,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-41,,false,,287,133,60,60,https://ez58211rss.azurewebsites.net/,120301,0,0
+1586200852127,121657,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-42,,false,,673,356,59,59,https://ez58211rss.azurewebsites.net/,1364,0,930
+1586200852127,1364,HTTP Request DELETE-0,302,Found,Grupa wątków 1-42,text,true,,386,223,59,59,https://ez58211rss.azurewebsites.net/delete,1364,0,930
+1586200853491,120293,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-42,,false,,287,133,59,59,https://ez58211rss.azurewebsites.net/,120293,0,0
+1586200853150,121993,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-43,,false,,673,356,58,58,https://ez58211rss.azurewebsites.net/,1698,0,1254
+1586200853150,1699,HTTP Request DELETE-0,302,Found,Grupa wątków 1-43,text,true,,386,223,58,58,https://ez58211rss.azurewebsites.net/delete,1698,0,1254
+1586200854849,120294,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-43,,false,,287,133,58,58,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200854104,121632,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-44,,false,,673,356,57,57,https://ez58211rss.azurewebsites.net/,1336,0,870
+1586200854104,1336,HTTP Request DELETE-0,302,Found,Grupa wątków 1-44,text,true,,386,223,57,57,https://ez58211rss.azurewebsites.net/delete,1336,0,870
+1586200855440,120296,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-44,,false,,287,133,57,57,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200855172,121690,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-45,,false,,673,356,56,56,https://ez58211rss.azurewebsites.net/,1400,0,911
+1586200855172,1400,HTTP Request DELETE-0,302,Found,Grupa wątków 1-45,text,true,,386,223,56,56,https://ez58211rss.azurewebsites.net/delete,1400,0,911
+1586200856572,120290,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-45,,false,,287,133,56,56,https://ez58211rss.azurewebsites.net/,120290,0,0
+1586200856091,121710,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-46,,false,,673,356,55,55,https://ez58211rss.azurewebsites.net/,1415,0,926
+1586200856091,1415,HTTP Request DELETE-0,302,Found,Grupa wątków 1-46,text,true,,386,223,55,55,https://ez58211rss.azurewebsites.net/delete,1415,0,926
+1586200857507,120294,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-46,,false,,287,133,55,55,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200857138,121787,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-47,,false,,673,356,54,54,https://ez58211rss.azurewebsites.net/,1494,0,1014
+1586200857138,1494,HTTP Request DELETE-0,302,Found,Grupa wątków 1-47,text,true,,386,223,54,54,https://ez58211rss.azurewebsites.net/delete,1494,0,1014
+1586200858632,120293,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-47,,false,,287,133,54,54,https://ez58211rss.azurewebsites.net/,120293,0,0
+1586200858141,121689,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-48,,false,,673,356,53,53,https://ez58211rss.azurewebsites.net/,1396,0,935
+1586200858141,1396,HTTP Request DELETE-0,302,Found,Grupa wątków 1-48,text,true,,386,223,53,53,https://ez58211rss.azurewebsites.net/delete,1396,0,935
+1586200859537,120293,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-48,,false,,287,133,53,53,https://ez58211rss.azurewebsites.net/,120293,0,0
+1586200860140,121739,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-50,,false,,673,356,52,52,https://ez58211rss.azurewebsites.net/,1432,0,991
+1586200860140,1432,HTTP Request DELETE-0,302,Found,Grupa wątków 1-50,text,true,,386,223,52,52,https://ez58211rss.azurewebsites.net/delete,1432,0,991
+1586200861572,120307,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-50,,false,,287,133,52,52,https://ez58211rss.azurewebsites.net/,120307,0,0
+1586200859118,123236,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-49,,false,,673,356,51,51,https://ez58211rss.azurewebsites.net/,2054,0,937
+1586200859118,2054,HTTP Request DELETE-0,302,Found,Grupa wątków 1-49,text,true,,386,223,51,51,https://ez58211rss.azurewebsites.net/delete,2054,0,937
+1586200861172,121182,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-49,,false,,287,133,51,51,https://ez58211rss.azurewebsites.net/,121182,0,879
+1586200861130,121601,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-51,,false,,673,356,50,50,https://ez58211rss.azurewebsites.net/,1310,0,875
+1586200861130,1310,HTTP Request DELETE-0,302,Found,Grupa wątków 1-51,text,true,,386,223,50,50,https://ez58211rss.azurewebsites.net/delete,1310,0,875
+1586200862440,120291,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-51,,false,,287,133,50,50,https://ez58211rss.azurewebsites.net/,120291,0,0
+1586200862094,121636,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-52,,false,,673,356,49,49,https://ez58211rss.azurewebsites.net/,1342,0,881
+1586200862094,1342,HTTP Request DELETE-0,302,Found,Grupa wątków 1-52,text,true,,386,223,49,49,https://ez58211rss.azurewebsites.net/delete,1342,0,881
+1586200863436,120294,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-52,,false,,287,133,49,49,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200863102,121706,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-53,,false,,673,356,48,48,https://ez58211rss.azurewebsites.net/,1410,0,975
+1586200863102,1410,HTTP Request DELETE-0,302,Found,Grupa wątków 1-53,text,true,,386,223,48,48,https://ez58211rss.azurewebsites.net/delete,1410,0,975
+1586200864512,120296,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-53,,false,,287,133,48,48,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200864108,121609,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-54,,false,,673,356,47,47,https://ez58211rss.azurewebsites.net/,1304,0,867
+1586200864108,1304,HTTP Request DELETE-0,302,Found,Grupa wątków 1-54,text,true,,386,223,47,47,https://ez58211rss.azurewebsites.net/delete,1304,0,867
+1586200865412,120305,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-54,,false,,287,133,47,47,https://ez58211rss.azurewebsites.net/,120305,0,0
+1586200865309,121609,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-55,,false,,673,356,46,46,https://ez58211rss.azurewebsites.net/,1316,0,874
+1586200865309,1316,HTTP Request DELETE-0,302,Found,Grupa wątków 1-55,text,true,,386,223,46,46,https://ez58211rss.azurewebsites.net/delete,1316,0,874
+1586200866626,120292,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-55,,false,,287,133,46,46,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200865808,121720,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-56,,false,,673,356,45,45,https://ez58211rss.azurewebsites.net/,1432,0,985
+1586200865808,1432,HTTP Request DELETE-0,302,Found,Grupa wątków 1-56,text,true,,386,223,45,45,https://ez58211rss.azurewebsites.net/delete,1432,0,985
+1586200867240,120288,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-56,,false,,287,133,45,45,https://ez58211rss.azurewebsites.net/,120288,0,0
+1586200867164,121631,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-57,,false,,673,356,44,44,https://ez58211rss.azurewebsites.net/,1334,0,888
+1586200867164,1334,HTTP Request DELETE-0,302,Found,Grupa wątków 1-57,text,true,,386,223,44,44,https://ez58211rss.azurewebsites.net/delete,1334,0,888
+1586200868498,120297,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-57,,false,,287,133,44,44,https://ez58211rss.azurewebsites.net/,120297,0,0
+1586200868085,121694,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-58,,false,,673,356,43,43,https://ez58211rss.azurewebsites.net/,1393,0,886
+1586200868085,1393,HTTP Request DELETE-0,302,Found,Grupa wątków 1-58,text,true,,386,223,43,43,https://ez58211rss.azurewebsites.net/delete,1393,0,886
+1586200869479,120300,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-58,,false,,287,133,43,43,https://ez58211rss.azurewebsites.net/,120300,0,0
+1586200869140,121624,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-59,,false,,673,356,42,42,https://ez58211rss.azurewebsites.net/,1322,0,877
+1586200869140,1322,HTTP Request DELETE-0,302,Found,Grupa wątków 1-59,text,true,,386,223,42,42,https://ez58211rss.azurewebsites.net/delete,1322,0,877
+1586200870462,120302,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-59,,false,,287,133,42,42,https://ez58211rss.azurewebsites.net/,120302,0,0
+1586200870076,121624,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-60,,false,,673,356,41,41,https://ez58211rss.azurewebsites.net/,1330,0,884
+1586200870076,1330,HTTP Request DELETE-0,302,Found,Grupa wątków 1-60,text,true,,386,223,41,41,https://ez58211rss.azurewebsites.net/delete,1330,0,884
+1586200871407,120293,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-60,,false,,287,133,41,41,https://ez58211rss.azurewebsites.net/,120293,0,0
+1586200871083,121664,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-61,,false,,673,356,40,40,https://ez58211rss.azurewebsites.net/,1361,0,878
+1586200871083,1361,HTTP Request DELETE-0,302,Found,Grupa wątków 1-61,text,true,,386,223,40,40,https://ez58211rss.azurewebsites.net/delete,1361,0,878
+1586200872444,120303,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-61,,false,,287,133,40,40,https://ez58211rss.azurewebsites.net/,120303,0,0
+1586200872071,121618,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-62,,false,,673,356,39,39,https://ez58211rss.azurewebsites.net/,1325,0,881
+1586200872071,1325,HTTP Request DELETE-0,302,Found,Grupa wątków 1-62,text,true,,386,223,39,39,https://ez58211rss.azurewebsites.net/delete,1325,0,881
+1586200873397,120292,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-62,,false,,287,133,39,39,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200873187,121613,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-63,,false,,673,356,38,38,https://ez58211rss.azurewebsites.net/,1311,0,874
+1586200873187,1311,HTTP Request DELETE-0,302,Found,Grupa wątków 1-63,text,true,,386,223,38,38,https://ez58211rss.azurewebsites.net/delete,1311,0,874
+1586200874499,120301,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-63,,false,,287,133,38,38,https://ez58211rss.azurewebsites.net/,120301,0,0
+1586200874110,121644,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-64,,false,,673,356,37,37,https://ez58211rss.azurewebsites.net/,1336,0,887
+1586200874110,1336,HTTP Request DELETE-0,302,Found,Grupa wątków 1-64,text,true,,386,223,37,37,https://ez58211rss.azurewebsites.net/delete,1336,0,887
+1586200875446,120308,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-64,,false,,287,133,37,37,https://ez58211rss.azurewebsites.net/,120308,0,0
+1586200874829,121298,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-65,,false,,673,356,36,36,https://ez58211rss.azurewebsites.net/,1013,0,573
+1586200874829,1013,HTTP Request DELETE-0,302,Found,Grupa wątków 1-65,text,true,,386,223,36,36,https://ez58211rss.azurewebsites.net/delete,1013,0,573
+1586200875842,120285,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-65,,false,,287,133,36,36,https://ez58211rss.azurewebsites.net/,120285,0,0
+1586200876124,121627,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-66,,false,,673,356,35,35,https://ez58211rss.azurewebsites.net/,1323,0,888
+1586200876124,1323,HTTP Request DELETE-0,302,Found,Grupa wątków 1-66,text,true,,386,223,35,35,https://ez58211rss.azurewebsites.net/delete,1323,0,888
+1586200877448,120303,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-66,,false,,287,133,35,35,https://ez58211rss.azurewebsites.net/,120303,0,0
+1586200877108,121616,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-67,,false,,673,356,34,34,https://ez58211rss.azurewebsites.net/,1324,0,884
+1586200877108,1324,HTTP Request DELETE-0,302,Found,Grupa wątków 1-67,text,true,,386,223,34,34,https://ez58211rss.azurewebsites.net/delete,1324,0,884
+1586200878432,120292,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-67,,false,,287,133,34,34,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200878095,121619,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-68,,false,,673,356,33,33,https://ez58211rss.azurewebsites.net/,1315,0,881
+1586200878095,1315,HTTP Request DELETE-0,302,Found,Grupa wątków 1-68,text,true,,386,223,33,33,https://ez58211rss.azurewebsites.net/delete,1315,0,881
+1586200879410,120304,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-68,,false,,287,133,33,33,https://ez58211rss.azurewebsites.net/,120304,0,0
+1586200879171,121600,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-69,,false,,673,356,32,32,https://ez58211rss.azurewebsites.net/,1312,0,873
+1586200879171,1312,HTTP Request DELETE-0,302,Found,Grupa wątków 1-69,text,true,,386,223,32,32,https://ez58211rss.azurewebsites.net/delete,1312,0,873
+1586200880483,120288,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-69,,false,,287,133,32,32,https://ez58211rss.azurewebsites.net/,120288,0,0
+1586200880116,121607,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-70,,false,,673,356,31,31,https://ez58211rss.azurewebsites.net/,1312,0,871
+1586200880116,1312,HTTP Request DELETE-0,302,Found,Grupa wątków 1-70,text,true,,386,223,31,31,https://ez58211rss.azurewebsites.net/delete,1312,0,871
+1586200881428,120295,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-70,,false,,287,133,31,31,https://ez58211rss.azurewebsites.net/,120295,0,0
+1586200881115,121591,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-71,,false,,673,356,30,30,https://ez58211rss.azurewebsites.net/,1304,0,872
+1586200881115,1304,HTTP Request DELETE-0,302,Found,Grupa wątków 1-71,text,true,,386,223,30,30,https://ez58211rss.azurewebsites.net/delete,1304,0,872
+1586200882419,120287,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-71,,false,,287,133,30,30,https://ez58211rss.azurewebsites.net/,120287,0,0
+1586200882083,121387,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-72,,false,,673,356,29,29,https://ez58211rss.azurewebsites.net/,1014,0,573
+1586200882083,1014,HTTP Request DELETE-0,302,Found,Grupa wątków 1-72,text,true,,386,223,29,29,https://ez58211rss.azurewebsites.net/delete,1014,0,573
+1586200883097,120373,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-72,,false,,287,133,29,29,https://ez58211rss.azurewebsites.net/,120373,0,0
+1586200883179,121607,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-73,,false,,673,356,28,28,https://ez58211rss.azurewebsites.net/,1308,0,872
+1586200883179,1308,HTTP Request DELETE-0,302,Found,Grupa wątków 1-73,text,true,,386,223,28,28,https://ez58211rss.azurewebsites.net/delete,1308,0,872
+1586200884487,120299,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-73,,false,,287,133,28,28,https://ez58211rss.azurewebsites.net/,120299,0,0
+1586200884122,121344,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-74,,false,,673,356,27,27,https://ez58211rss.azurewebsites.net/,1024,0,579
+1586200884122,1024,HTTP Request DELETE-0,302,Found,Grupa wątków 1-74,text,true,,386,223,27,27,https://ez58211rss.azurewebsites.net/delete,1024,0,579
+1586200885146,120320,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-74,,false,,287,133,27,27,https://ez58211rss.azurewebsites.net/,120320,0,0
+1586200885128,121601,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-75,,false,,673,356,26,26,https://ez58211rss.azurewebsites.net/,1303,0,867
+1586200885128,1303,HTTP Request DELETE-0,302,Found,Grupa wątków 1-75,text,true,,386,223,26,26,https://ez58211rss.azurewebsites.net/delete,1303,0,867
+1586200886431,120298,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-75,,false,,287,133,26,26,https://ez58211rss.azurewebsites.net/,120298,0,0
+1586200886121,121612,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-76,,false,,673,356,25,25,https://ez58211rss.azurewebsites.net/,1315,0,871
+1586200886121,1315,HTTP Request DELETE-0,302,Found,Grupa wątków 1-76,text,true,,386,223,25,25,https://ez58211rss.azurewebsites.net/delete,1315,0,871
+1586200887436,120297,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-76,,false,,287,133,25,25,https://ez58211rss.azurewebsites.net/,120297,0,0
+1586200887122,121624,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-77,,false,,673,356,24,24,https://ez58211rss.azurewebsites.net/,1308,0,874
+1586200887122,1308,HTTP Request DELETE-0,302,Found,Grupa wątków 1-77,text,true,,386,223,24,24,https://ez58211rss.azurewebsites.net/delete,1308,0,874
+1586200888430,120316,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-77,,false,,287,133,24,24,https://ez58211rss.azurewebsites.net/,120316,0,0
+1586200888109,121611,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-78,,false,,673,356,23,23,https://ez58211rss.azurewebsites.net/,1314,0,880
+1586200888109,1314,HTTP Request DELETE-0,302,Found,Grupa wątków 1-78,text,true,,386,223,23,23,https://ez58211rss.azurewebsites.net/delete,1314,0,880
+1586200889424,120296,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-78,,false,,287,133,23,23,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200889105,121600,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-79,,false,,673,356,22,22,https://ez58211rss.azurewebsites.net/,1302,0,869
+1586200889105,1302,HTTP Request DELETE-0,302,Found,Grupa wątków 1-79,text,true,,386,223,22,22,https://ez58211rss.azurewebsites.net/delete,1302,0,869
+1586200890408,120297,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-79,,false,,287,133,22,22,https://ez58211rss.azurewebsites.net/,120297,0,0
+1586200890090,121603,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-80,,false,,673,356,21,21,https://ez58211rss.azurewebsites.net/,1304,0,869
+1586200890090,1304,HTTP Request DELETE-0,302,Found,Grupa wątków 1-80,text,true,,386,223,21,21,https://ez58211rss.azurewebsites.net/delete,1304,0,869
+1586200891394,120299,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-80,,false,,287,133,21,21,https://ez58211rss.azurewebsites.net/,120299,0,0
+1586200891108,121601,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-81,,false,,673,356,20,20,https://ez58211rss.azurewebsites.net/,1306,0,871
+1586200891108,1306,HTTP Request DELETE-0,302,Found,Grupa wątków 1-81,text,true,,386,223,20,20,https://ez58211rss.azurewebsites.net/delete,1306,0,871
+1586200892413,120296,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-81,,false,,287,133,20,20,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200892087,121600,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-82,,false,,673,356,19,19,https://ez58211rss.azurewebsites.net/,1311,0,868
+1586200892087,1311,HTTP Request DELETE-0,302,Found,Grupa wątków 1-82,text,true,,386,223,19,19,https://ez58211rss.azurewebsites.net/delete,1311,0,868
+1586200893398,120289,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-82,,false,,287,133,19,19,https://ez58211rss.azurewebsites.net/,120289,0,0
+1586200893090,121607,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-83,,false,,673,356,18,18,https://ez58211rss.azurewebsites.net/,1302,0,868
+1586200893090,1302,HTTP Request DELETE-0,302,Found,Grupa wątków 1-83,text,true,,386,223,18,18,https://ez58211rss.azurewebsites.net/delete,1302,0,868
+1586200894392,120305,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-83,,false,,287,133,18,18,https://ez58211rss.azurewebsites.net/,120305,0,0
+1586200894072,121620,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-84,,false,,673,356,17,17,https://ez58211rss.azurewebsites.net/,1317,0,870
+1586200894072,1317,HTTP Request DELETE-0,302,Found,Grupa wątków 1-84,text,true,,386,223,17,17,https://ez58211rss.azurewebsites.net/delete,1317,0,870
+1586200895389,120303,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-84,,false,,287,133,17,17,https://ez58211rss.azurewebsites.net/,120303,0,0
+1586200895075,121606,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-85,,false,,673,356,16,16,https://ez58211rss.azurewebsites.net/,1302,0,868
+1586200895075,1302,HTTP Request DELETE-0,302,Found,Grupa wątków 1-85,text,true,,386,223,16,16,https://ez58211rss.azurewebsites.net/delete,1302,0,868
+1586200896377,120304,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-85,,false,,287,133,16,16,https://ez58211rss.azurewebsites.net/,120304,0,0
+1586200896298,121756,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-86,,false,,673,356,15,15,https://ez58211rss.azurewebsites.net/,1407,0,968
+1586200896298,1407,HTTP Request DELETE-0,302,Found,Grupa wątków 1-86,text,true,,386,223,15,15,https://ez58211rss.azurewebsites.net/delete,1407,0,968
+1586200897706,120348,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-86,,false,,287,133,15,15,https://ez58211rss.azurewebsites.net/,120348,0,0
+1586200897167,121654,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-87,,false,,673,356,14,14,https://ez58211rss.azurewebsites.net/,1309,0,872
+1586200897167,1309,HTTP Request DELETE-0,302,Found,Grupa wątków 1-87,text,true,,386,223,14,14,https://ez58211rss.azurewebsites.net/delete,1309,0,872
+1586200898477,120344,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-87,,false,,287,133,14,14,https://ez58211rss.azurewebsites.net/,120344,0,0
+1586200898074,121644,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-88,,false,,673,356,13,13,https://ez58211rss.azurewebsites.net/,1336,0,876
+1586200898074,1336,HTTP Request DELETE-0,302,Found,Grupa wątków 1-88,text,true,,386,223,13,13,https://ez58211rss.azurewebsites.net/delete,1336,0,876
+1586200899410,120308,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-88,,false,,287,133,13,13,https://ez58211rss.azurewebsites.net/,120308,0,0
+1586200899095,121646,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-89,,false,,673,356,12,12,https://ez58211rss.azurewebsites.net/,1348,0,901
+1586200899095,1348,HTTP Request DELETE-0,302,Found,Grupa wątków 1-89,text,true,,386,223,12,12,https://ez58211rss.azurewebsites.net/delete,1348,0,901
+1586200900443,120298,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-89,,false,,287,133,12,12,https://ez58211rss.azurewebsites.net/,120298,0,0
+1586200900106,121611,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-90,,false,,673,356,11,11,https://ez58211rss.azurewebsites.net/,1323,0,879
+1586200900106,1323,HTTP Request DELETE-0,302,Found,Grupa wątków 1-90,text,true,,386,223,11,11,https://ez58211rss.azurewebsites.net/delete,1323,0,879
+1586200901429,120288,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-90,,false,,287,133,11,11,https://ez58211rss.azurewebsites.net/,120288,0,0
+1586200901090,121706,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-91,,false,,673,356,10,10,https://ez58211rss.azurewebsites.net/,1358,0,909
+1586200901090,1359,HTTP Request DELETE-0,302,Found,Grupa wątków 1-91,text,true,,386,223,10,10,https://ez58211rss.azurewebsites.net/delete,1358,0,909
+1586200902449,120347,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-91,,false,,287,133,10,10,https://ez58211rss.azurewebsites.net/,120347,0,0
+1586200902126,121610,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-92,,false,,673,356,9,9,https://ez58211rss.azurewebsites.net/,1309,0,869
+1586200902126,1309,HTTP Request DELETE-0,302,Found,Grupa wątków 1-92,text,true,,386,223,9,9,https://ez58211rss.azurewebsites.net/delete,1309,0,869
+1586200903436,120300,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-92,,false,,287,133,9,9,https://ez58211rss.azurewebsites.net/,120300,0,0
+1586200903106,121615,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-93,,false,,673,356,8,8,https://ez58211rss.azurewebsites.net/,1308,0,870
+1586200903106,1308,HTTP Request DELETE-0,302,Found,Grupa wątków 1-93,text,true,,386,223,8,8,https://ez58211rss.azurewebsites.net/delete,1308,0,870
+1586200904414,120307,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-93,,false,,287,133,8,8,https://ez58211rss.azurewebsites.net/,120307,0,0
+1586200904182,121616,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-94,,false,,673,356,7,7,https://ez58211rss.azurewebsites.net/,1326,0,885
+1586200904182,1326,HTTP Request DELETE-0,302,Found,Grupa wątków 1-94,text,true,,386,223,7,7,https://ez58211rss.azurewebsites.net/delete,1326,0,885
+1586200905508,120290,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-94,,false,,287,133,7,7,https://ez58211rss.azurewebsites.net/,120290,0,0
+1586200905120,121601,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-95,,false,,673,356,6,6,https://ez58211rss.azurewebsites.net/,1315,0,877
+1586200905120,1315,HTTP Request DELETE-0,302,Found,Grupa wątków 1-95,text,true,,386,223,6,6,https://ez58211rss.azurewebsites.net/delete,1315,0,877
+1586200906435,120286,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-95,,false,,287,133,6,6,https://ez58211rss.azurewebsites.net/,120286,0,0
+1586200906090,121599,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-96,,false,,673,356,5,5,https://ez58211rss.azurewebsites.net/,1303,0,869
+1586200906090,1303,HTTP Request DELETE-0,302,Found,Grupa wątków 1-96,text,true,,386,223,5,5,https://ez58211rss.azurewebsites.net/delete,1303,0,869
+1586200907393,120296,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-96,,false,,287,133,5,5,https://ez58211rss.azurewebsites.net/,120296,0,0
+1586200907104,121600,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-97,,false,,673,356,4,4,https://ez58211rss.azurewebsites.net/,1308,0,871
+1586200907104,1308,HTTP Request DELETE-0,302,Found,Grupa wątków 1-97,text,true,,386,223,4,4,https://ez58211rss.azurewebsites.net/delete,1308,0,871
+1586200908412,120292,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-97,,false,,287,133,4,4,https://ez58211rss.azurewebsites.net/,120292,0,0
+1586200908168,121600,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-98,,false,,673,356,3,3,https://ez58211rss.azurewebsites.net/,1312,0,872
+1586200908168,1312,HTTP Request DELETE-0,302,Found,Grupa wątków 1-98,text,true,,386,223,3,3,https://ez58211rss.azurewebsites.net/delete,1312,0,872
+1586200909480,120288,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-98,,false,,287,133,3,3,https://ez58211rss.azurewebsites.net/,120288,0,0
+1586200909089,121616,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-99,,false,,673,356,2,2,https://ez58211rss.azurewebsites.net/,1322,0,884
+1586200909089,1322,HTTP Request DELETE-0,302,Found,Grupa wątków 1-99,text,true,,386,223,2,2,https://ez58211rss.azurewebsites.net/delete,1322,0,884
+1586200910411,120294,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-99,,false,,287,133,2,2,https://ez58211rss.azurewebsites.net/,120294,0,0
+1586200910111,121368,HTTP Request DELETE,500,Internal Server Error,Grupa wątków 1-100,,false,,673,356,1,1,https://ez58211rss.azurewebsites.net/,1019,0,575
+1586200910111,1019,HTTP Request DELETE-0,302,Found,Grupa wątków 1-100,text,true,,386,223,1,1,https://ez58211rss.azurewebsites.net/delete,1019,0,575
+1586200911130,120349,HTTP Request DELETE-1,500,Internal Server Error,Grupa wątków 1-100,,false,,287,133,1,1,https://ez58211rss.azurewebsites.net/,120349,0,0
